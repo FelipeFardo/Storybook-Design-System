@@ -1,0 +1,2 @@
+import{A as t}from"./index.c254eb74.js";import"./index.28dbf3c7.js";import"./iframe.23db518a.js";import"./extends.bd401154.js";import"./index.4acc55a2.js";import"./jsx-runtime.11fd2a21.js";const p={title:"Surfaces/Avatar",component:t,args:{src:"https://github.com/felipefardo.png",alt:"Felipe Fardo"},argTypes:{src:{control:{type:"text"}}}},c={},m={args:{src:void 0}},l=["Primary","WithFallback"];export{c as Primary,m as WithFallback,l as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.dcc976ae.js.map
